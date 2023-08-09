@@ -83,14 +83,6 @@
 <br/>
 
 
-<!-- GITHUB STATS -->
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hex-Toys&show_icons=true&theme=dark&title_color=fff&text_color=fff&bg_color=091D3B" alt="Prowise  GitHub stats" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Hex-Toys&theme=dark&background=091D3B&stroke=fff&ring=fff&fire=fff&currStreakLabel=fff&sideNums=fff&dates=fff" alt="Prowise  GitHub streak" height="160px" />
-</div>
-
-<br/>
-
 ## Connect with me:
 
 <p align = "center">
