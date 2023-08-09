@@ -1,4 +1,4 @@
-<img align="center"  width="100%" src="https://pbs.twimg.com/profile_banners/1284357681415884801/1651791380/1500x500"/>
+<img align="center"  width="100%" src="./Assets/Banner.png"/>
 
 ## Experienced Senior Systems Engineer | Infrastructure Architect 🌟
 
@@ -85,8 +85,8 @@
 
 <!-- GITHUB STATS -->
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dark&title_color=fff&text_color=fff&bg_color=091D3B" alt="Prowise  GitHub stats" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=dark&background=091D3B&stroke=fff&ring=fff&fire=fff&currStreakLabel=fff&sideNums=fff&dates=fff" alt="Prowise  GitHub streak" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hex-Toys&show_icons=true&theme=dark&title_color=fff&text_color=fff&bg_color=091D3B" alt="Prowise  GitHub stats" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=Hex-Toys&theme=dark&background=091D3B&stroke=fff&ring=fff&fire=fff&currStreakLabel=fff&sideNums=fff&dates=fff" alt="Prowise  GitHub streak" height="160px" />
 </div>
 
 <br/>
