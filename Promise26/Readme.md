@@ -133,10 +133,6 @@
 
 <br/>
 
- <img alt="prowise26's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=prowise26&theme=github-compact&hide_border=true" /></a>
-
-<br/>
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AdanBustos1}/count.svg" /></p> 
