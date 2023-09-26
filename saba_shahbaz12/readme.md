@@ -7,15 +7,6 @@ Experienced full-stack software engineer with a strong background in biological 
 
 <img align="right"  width="250px" style="border-radius: 5px;" src="https://img.wattpad.com/3ce7f8c3f050bc1d10981feaaee1b23bdcb72666/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f464d4e55433631753763345071673d3d2d3137332e313634363861326162656531643666623536343338393038393532382e676966" alt="">
 
-## 🧬 Background
-- Full-Stack Software Engineer 💻
-- Master's in Biological Sciences 🧪
-- BSc in Biological Sciences 🌿
-- New Yorker 🗽
-
-## 💼 Work Experience
-- Medical Assistant/Scribe at StatMD Urgent Care, NY 🏥
-- Physics Teaching Assistant at Binghamton University 📚
 
 ## 🎓 Education
 - Full-Stack Software Engineering Certificate from Flatiron School, NY 🚀
@@ -64,13 +55,24 @@ Experienced full-stack software engineer with a strong background in biological 
 </table>
 <br/>
 
+## 💼 Work Experience
+- Medical Assistant/Scribe at StatMD Urgent Care, NY 🏥
+- Physics Teaching Assistant at Binghamton University 📚
+  
+## 🧬 Background
+- Full-Stack Software Engineer 💻
+- Master's in Biological Sciences 🧪
+- BSc in Biological Sciences 🌿
+- New Yorker 🗽
 
-<!-- GITHUB STATS -->
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sabashahbaz&theme=dark)](https://github.com/sabashahbaz/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=sabashahbaz&theme=dark)](https://git.io/streak-stats)
 
-<br/>
-
+## 📈 Github stats
+<a href="https://github.com/sabashahbaz/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sabashahbaz" />
+</a>
+<a href="https://github.com/sabashahbaz/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sabashahbaz&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## Connect with me:
 
